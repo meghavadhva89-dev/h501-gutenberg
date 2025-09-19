@@ -1,2 +1,4 @@
 __pycache__/
-*.csv
+data/gutenberg.csv
+# keep small sample in repo
+data/sample_gutenberg.csv
